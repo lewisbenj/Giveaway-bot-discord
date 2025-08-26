@@ -40,6 +40,9 @@ A powerful Discord bot designed to manage giveaways effortlessly! This bot allow
      npm install
      ```
    - This will install `discord.js`, `dotenv`, and `express`.
+     ```
+     npm install discord.js && npm install dotenv && npm install express
+     ```
 
 4. **Invite the Bot to Your Server**:
    - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
